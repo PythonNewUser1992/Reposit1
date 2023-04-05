@@ -1,1 +1,1 @@
-sfdsdfsdfsdfsdfsdfsdfsfsfsdf
+print('World')
