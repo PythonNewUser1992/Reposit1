@@ -1,1 +1,2 @@
-print('World')
+def anuu():
+    pass
